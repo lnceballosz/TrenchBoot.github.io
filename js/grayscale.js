@@ -1,3 +1,8 @@
+/**
+* Copyright 2013-2019 Blackrock Digital LLC <hello@davidmiller.io>
+* SPDX-License-Identifier: MIT
+*/
+
 (function($) {
   "use strict"; // Start of use strict
 

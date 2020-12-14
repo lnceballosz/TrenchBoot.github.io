@@ -1,3 +1,8 @@
+<!--
+Copyright 2013-2019 Blackrock Digital LLC <hello@davidmiller.io>
+SPDX-License-Identifier: MIT
+-->
+
 # [Start Bootstrap - Grayscale](https://startbootstrap.com/template-overviews/grayscale/)
 
 [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).

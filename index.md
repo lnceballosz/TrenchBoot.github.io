@@ -1,2 +1,6 @@
+<!--
+Copyright 2013-2019 Blackrock Digital LLC <hello@davidmiller.io>
+SPDX-License-Identifier: MIT
+-->
 # TrenchBoot
 
